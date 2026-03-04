@@ -1,0 +1,9 @@
+{
+  "skills": [
+    {
+      "name": "schedule-assistant",
+      "description": "日程安排助手 - 帮助用户记录日程、管理待办事项，并根据用户需求提供智能日程建议。当用户提到"日程"、"安排"、"计划"、"提醒"、"schedule"等关键词时使用此技能。",
+      "path": ".claude/skills/schedule-assistant/SKILL.md"
+    }
+  ]
+}
